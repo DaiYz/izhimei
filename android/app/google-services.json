@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "736851084511",
+    "firebase_url": "https://izhimei.firebaseio.com",
+    "project_id": "izhimei",
+    "storage_bucket": "izhimei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736851084511:android:5ec768b5cc82fd4d61156a",
+        "android_client_info": {
+          "package_name": "com.izhimei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736851084511-0b7qllres61jg1dpcs6mq4v42mf5u3q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIw6U-KbeyUHavUb4mSgMYjmF4wUXWTxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736851084511-0b7qllres61jg1dpcs6mq4v42mf5u3q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
