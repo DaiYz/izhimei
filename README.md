@@ -14,7 +14,7 @@
   
   ## 预览
   
-  <img alt="izhimei" src="./screen/demo.gif" width="250" height="444" />
+  <img alt="izhimei" src="./screen/demo.gif" width="448" height="960" />
   
   
 ## 关于公司
