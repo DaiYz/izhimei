@@ -5687,9 +5687,9 @@ react-native-view-shot@^3.1.2:
   version "3.1.2"
   resolved "https://registry.npm.taobao.org/react-native-view-shot/download/react-native-view-shot-3.1.2.tgz#8c8e84c67a4bc8b603e697dbbd59dbc9b4f84825"
 
-react-native-webview@^9.0.1:
-  version "9.4.0"
-  resolved "https://registry.npm.taobao.org/react-native-webview/download/react-native-webview-9.4.0.tgz?cache=0&sync_timestamp=1593181386550&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-native-webview%2Fdownload%2Freact-native-webview-9.4.0.tgz#108da34a6c7e1c032dcabc942b7e4947ca1d8028"
+react-native-webview@^11.0.0:
+  version "11.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-11.0.0.tgz#d667cbcc772e963fe88a4156290d25fe47ed43b0"
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
